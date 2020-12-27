@@ -1,5 +1,5 @@
 
-Hi! I'm a Web Developer with experience in Frontend and Backend applications. I specialize in Javascript frameworks (Vue, React and Angular), NodeJS and cloud development (AWS and Google Cloud). I also have some experience with Python, PHP, UI/UX design, Photoshop and videogame development.
+Hi! I'm a Web Developer with experience in Frontend and Backend applications. I specialize in Javascript frameworks (Vue, React and Angular) and Node. I also have some experience with cloud development (Google Cloud), Python, PHP, UI/UX design, Photoshop and videogame development.
 
 <!--
 **alhuissi/alhuissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
