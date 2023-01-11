@@ -1,5 +1,5 @@
 
-Web Developer specialized in Javascript frameworks and libraries (Vue, React, and NodeJS) . I also have experience with cloud development (Google Cloud and AWS), Typescript, React Native, NestJS, Next, NX, Python, Express, Wordpress, Shopify and UI/UX design. I am very curious about machine learning and blockhain development, topics that I'm currently studying on my own. 
+Software engineer specialized in Javascript frameworks and libraries (Vue, React, and NodeJS) . I also have experience with cloud development (Google Cloud and AWS), Typescript, React Native, NestJS, Next, NX, Python, Express, Wordpress, Shopify and UI/UX design. I am very curious about machine learning and blockhain development, topics that I'm currently studying on my own. 
 <!--
 **alhuissi/alhuissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
