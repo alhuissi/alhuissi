@@ -1,5 +1,5 @@
 
-Software engineer skilled in Javascript/Typescript (React, Nexts, Vue, Node). I also have experience with cloud development (Google Cloud and AWS), Python, React Native, Nest, Wordpress, Shopify and UI/UX design. I am currently building apps enhanced with Machine Learning.
+Software engineer specialized in Javascript/Typescript development (React, Next, Vue, Node). Also familiar with Cloud (GCP and AWS), React Native, Python, Three.js (WebGL), Docker, Wordpress, Shopify apps and UI/UX design. I am currently building apps enhanced with Machine Learning.
 <!--
 **alhuissi/alhuissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
