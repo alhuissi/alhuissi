@@ -1,7 +1,7 @@
 
 Software developer with over 10 years of experience working in the Web industry. Specialized in Javascript/Typescript development (React, Vue, Next, NodeJS) and also familiar with Cloud Development (GCP and AWS), React Native, Python, NestJS, Three.js, Docker, Wordpress, Shopify apps and UI/UX.
 
-I'm currently developing applications that harness the capabilities of Large Language Models and Generative AI (https://.spokesai.com), and writing educational content on the subject.
+I'm currently developing applications that harness the capabilities of Large Language Models and Generative AI (https://spokesai.com), and writing educational content on the subject.
 <!--
 **alhuissi/alhuissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
