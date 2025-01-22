@@ -1,5 +1,5 @@
 
-Software engineer with over 10 years of experience developing web applications. Specialized in Javascript/Typescript development (React, Vue, Next, NodeJS) and also familiar with Cloud Development (GCP and AWS), React Native, Python, NestJS, Three.js, Docker, Wordpress, Shopify apps and UI/UX.
+Building stuff
 
 <!--
 **alhuissi/alhuissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
